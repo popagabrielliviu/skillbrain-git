@@ -1,0 +1,133 @@
+.nav {
+    
+    height: 80px;
+    color: #FFFFFF;
+    justify-content: center;
+    align-items: center;
+}
+.row {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.row-centered {
+    align-items: center;
+
+}
+.content-container {
+    max-width: 1120px;
+    margin: auto;
+  
+}
+#app-logo {
+    height: 30px;
+    margin-right: 16px;
+    font-style: bold;
+}
+#app-title {
+    font-family: poppins, sans-serif; 
+    width: 400px;
+    size: 30px;
+    line-height: 28px;
+    color: #173a56;
+}
+.list-title > a {
+    text-decoration: none;
+    justify-content: space-between;
+    color: #22343d;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 60;
+    font-size: 16px;
+    margin: 0px 10px;
+}
+.button-1 {
+    background-color: #FFFFFF;
+    width: 110px;
+    height: 43px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 24px;
+    text-align: center;
+    cursor: pointer;
+    margin-right: 20px;
+}
+.button-2 {
+    background-color: #02897a;
+    width: 110px;
+    height: 43px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 24px;
+    text-align: center;
+    border: none;
+    cursor: pointer;
+    color: #FFFFFF;
+}
+.button-final {
+    width: 32px;
+    height: 32px;
+    top: 24px;
+    left: 1224px;
+    padding: 4px 0px 0px 0px;
+    margin: 0px 20px;
+    cursor: pointer;
+    border: none;
+    }
+.btn-watch-the-video {
+    color: #02897a;
+    cursor: pointer;
+    border: none;
+
+}
+.main-text {
+
+    /* height: 300px; */
+    font-family: Poppins;
+    font-size: 40px;
+    font-weight: 700;
+}
+.second-text {
+    width: 458px;
+    /* height: 95px; */
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 28px;
+    justify-content: left;
+}
+.col-left-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 150px 0px  100px 200px;
+    
+}
+.img-video {
+    margin: 0px 5px 0px 10px;
+    cursor: pointer;
+}
+.col-right-container {
+    margin: 60px 10px;
+    
+}
+
+.up-text {
+    display: flex;
+    flex-direction: row;
+    font-size: 32px;
+    line-height: 48px;
+    justify-content: center;
+}
+
+.icon-1 {
+
+height: 20px;
+
+
+
+
+
+}
